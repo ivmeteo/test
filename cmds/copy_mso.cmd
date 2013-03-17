@@ -1,0 +1,1 @@
+copy mso.dll  "%ProgramFiles%\Common Files\Microsoft Shared\Office10"
